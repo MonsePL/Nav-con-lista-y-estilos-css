@@ -1,0 +1,27 @@
+ul {
+  background-color:#f2118e;
+}
+
+li {
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+  font-family: helvetica;
+}
+
+a:hover{
+  color:#19f211;
+}
+
+span{
+  color:#343a33;
+  margin: 0 100px;
+  font-weight: 900;
+  font-family: helvetica;
+}
